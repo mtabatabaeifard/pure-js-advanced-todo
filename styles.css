@@ -1,0 +1,13 @@
+.list-item {
+    font-family: "roboto";
+    color: black;
+    text-decoration: none!important;
+    margin-top:.5rem;
+}
+.title-input {
+    background-color: transparent;
+    border: none;
+    font-size: inherit;
+    outline: none;
+    color: black;
+  }
